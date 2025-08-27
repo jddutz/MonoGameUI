@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj": {}
+    "C:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj": {
+    "C:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "c:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj",
+        "projectPath": "C:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\Test.csproj",
         "packagesPath": "C:\\Users\\jddut\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\jddut\\Source\\MonoGameUI\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jddut\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj": {
-                "projectPath": "c:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj"
+              "C:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj": {
+                "projectPath": "C:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj"
               }
             }
           }
@@ -41,7 +41,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -79,23 +80,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj": {
+    "C:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "c:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj",
+        "projectPath": "C:\\Users\\jddut\\Source\\MonoGameUI\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\jddut\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jddut\\Source\\MonoGameUI\\UI\\obj\\",
+        "outputPath": "C:\\Users\\jddut\\Source\\MonoGameUI\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jddut\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,7 +136,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -143,12 +159,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,3 +10,4 @@ c:\Users\jddut\Source\MonoGameUI\UI\obj\Debug\net8.0\UI.dll
 c:\Users\jddut\Source\MonoGameUI\UI\obj\Debug\net8.0\refint\UI.dll
 c:\Users\jddut\Source\MonoGameUI\UI\obj\Debug\net8.0\UI.pdb
 c:\Users\jddut\Source\MonoGameUI\UI\obj\Debug\net8.0\ref\UI.dll
+C:\Users\jddut\Source\MonoGameUI\UI\obj\Debug\net8.0\UI.sourcelink.json
